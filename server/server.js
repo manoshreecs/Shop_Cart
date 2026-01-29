@@ -20,7 +20,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
 const allowedOrigins = [
     "http://localhost:5173",
-    "https://shop-cart-ecommerce-hazel.vercel.app"
+    "https://shop-cart-frontend-ten.vercel.app"
 ];
 
 await connectDB();
