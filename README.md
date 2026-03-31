@@ -43,7 +43,7 @@ The application is fully deployed and integrates **secure payments via Stripe** 
 - Fully responsive design (mobile + desktop)  
 - Clean and modern UI
 
-  ## 🎯 Key Outcomes
+### 🎯 Key Outcomes
 
 - Successfully built and deployed my **first full-stack MERN application**  
 - Developed a strong understanding of **end-to-end application flow (frontend ↔ backend ↔ database)**  
